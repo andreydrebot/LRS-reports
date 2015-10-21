@@ -1,0 +1,14 @@
+{
+  "name": "LRS reports",
+  "version": "0.1.0",
+  "description": "LRS reports",
+  "main": "server.js",
+  "author": {
+    "name": "a.drebot",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.0.46"
+  }
+}
